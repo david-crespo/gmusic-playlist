@@ -5,7 +5,7 @@ playlist scripts for gmusic
 
 ## Prerequisites
 
-- python 2.7 - https://www.python.org
+- python 3 - https://www.python.org (modified in this fork)
 - gmusicapi - https://github.com/simon-weber/Unofficial-Google-Music-API
 
 Before using the scripts, open up the preferences.py file and change the username.
